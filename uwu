@@ -1,0 +1,40 @@
+print("Suma")
+num1=int(input("Introduce un numero: "))
+num2=int(input("Introduce otro numero: "))
+suma=num1+num2
+print("Resultado:",(suma))
+
+print("\n")
+print("Resta")
+num1=int(input("Introduce un numero: "))
+num2=int(input("Introduce otro numero: "))
+resta=num1-num2
+print("Resultado:",(resta))
+
+print("\n")
+print("Multiplicacion")
+num1=int(input("Introduce un numero: "))
+num2=int(input("Introduce otro numero: "))
+multiplicacion=num1*num2
+print("Resultado:",(multiplicacion))
+
+print("\n")
+print("Division")
+num1=int(input("Introduce un numero: "))
+num2=int(input("Introduce otro numero: "))
+division=num1/num2
+print("Resultado:",(division))
+
+print("\n")
+print("Modulo")
+num1=int(input("Introduce un numero: "))
+num2=int(input("Introduce otro numero: "))
+modulo=num1%num2
+print("Resultado:",(modulo))
+
+print("\n")
+print("Potencia")
+num1=int(input("Introduce un numero: "))
+potencia=num1**2
+print("Resultado:",(potencia))
+
